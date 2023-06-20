@@ -9,7 +9,7 @@ E é justamente aí que o Node.js se encaixa.
 **Vamos entender mais nesse exemplo:**
 
 
-![(![image](https://github.com/kesia-salgado/Node.js/assets/123267376/a8bbb511-cc3c-4b07-b555-68bdfbe5f626)
-)]
+(![image](https://github.com/kesia-salgado/Node.js/assets/123267376/a8bbb511-cc3c-4b07-b555-68bdfbe5f626)
+)
 
 
