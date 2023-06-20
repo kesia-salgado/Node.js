@@ -11,5 +11,9 @@ E é justamente aí que o Node.js se encaixa.
 
 ![image](https://github.com/kesia-salgado/Node.js/assets/123267376/a8bbb511-cc3c-4b07-b555-68bdfbe5f626)
 
+Em termos práticos:
+
+A usuária faz o pedido ao computador, o node roda este requisito para achar a informação solicitada e com as funções do javascript, recebe sua resposta.
+
 
 
